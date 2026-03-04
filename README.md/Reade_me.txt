@@ -1,0 +1,13 @@
+# Tic Tac Toe Desktop Game
+
+A simple Tic Tac Toe game built with Python and Tkinter.
+
+## Features
+- GUI based gameplay
+- Restart button
+- Lightweight Windows app
+
+## Technologies
+Python
+Tkinter
+PyInstaller
